@@ -1,3 +1,3 @@
 role,NetID,LastName,FirstName
-boss,cdukelover,Tran,Camille2
-employee,Cttran3,Tran,Camille
+boss,Cttran3,Tran,Camille
+employee,cdukelover,Tran,Camille2
